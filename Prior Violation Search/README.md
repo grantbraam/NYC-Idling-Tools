@@ -24,4 +24,4 @@
 
 **Future Enhancements**:  
 -Startup speed for compiled file  
--file size
+-reduce file size
